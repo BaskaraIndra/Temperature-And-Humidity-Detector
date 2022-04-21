@@ -1,0 +1,22 @@
+Hardware Requirement 
+1.Jumper Cable Male To Female 
+2.Arduino uno 
+3.Dht11 Sensor 
+4.Lcd 16x2 
+5.Programming Cable / Usb Printer
+
+Software Requirement
+1.Arduino IDE
+
+Port Configuration
+DHT11
+1.Connect Port GND Dht11 to GND Arduino
+2.And VCC Ton Pin 3 Arduino 
+3.Next Pin OUT to Pin 2 Arduino
+
+LCD 16x2
+1.Connect VCC Lcd To 5v Arduino
+2.And GND Lcd To GND Arduino
+3.Then SDA LCD To Pin A4 Arduino
+4.Lastly SCL To Pin A5 Arduino
+ 
