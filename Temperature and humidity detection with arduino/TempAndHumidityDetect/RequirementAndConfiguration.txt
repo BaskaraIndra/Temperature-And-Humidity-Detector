@@ -8,7 +8,7 @@ Hardware Requirement
 Software Requirement
 1.Arduino IDE
 
-Port Configuration
+Pin Configuration
 DHT11
 1.Connect Port GND Dht11 to GND Arduino
 2.And VCC Ton Pin 3 Arduino 
